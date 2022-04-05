@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rob
+- 👀 I’m interested in ... Powershell and M365 Development
+- 💞️ I’m looking to collaborate on ... Scripts for easier deployment of M365 environments
